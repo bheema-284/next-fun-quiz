@@ -30,13 +30,6 @@
 [![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-blue?logo=Framer)](https://www.framer.com/api/motion/)
 
 </div>
-
-<div align="center">
-
-![Thumbnail](./public/thumbnail.jpg)
-
-</div>
-
 ## Introduction
 
 Welcome to the GitHub repository for the
